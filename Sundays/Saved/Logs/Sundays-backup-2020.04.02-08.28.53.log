@@ -1,0 +1,1022 @@
+﻿Log file open, 04/01/20 11:44:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Sundays
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.112679
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: AMD FX(tm)-8350 Eight-Core Processor           , GPU: AMD Radeon R9 200 Series
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=Artosal -epicuserid=d6ebc8df33624da19e691219af681079 -epiclocale=en
+LogInit: Base Directory: P:/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Engine.ini]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2020.04.01-09.44.45:157][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2020.04.01-09.44.45:158][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Engine.ini]
+[2020.04.01-09.44.45:159][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Engine.ini]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.01-09.44.45:159][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Engine.ini]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.01-09.44.45:160][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Engine.ini]
+[2020.04.01-09.44.45:160][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Engine.ini]
+[2020.04.01-09.44.45:173][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:173][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.01-09.44.45:174][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.01-09.44.45:175][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:176][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.01-09.44.45:176][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.01-09.44.45:176][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.01-09.44.45:176][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.01-09.44.45:176][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.01-09.44.45:179][  0]LogHAL: Display: Platform has ~ 32 GB [34256519168 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.01-09.44.45:179][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.01-09.44.45:179][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.01-09.44.45:179][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.01-09.44.45:180][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Scalability.ini]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.01-09.44.45:181][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Config/Windows/Engine.ini]
+[2020.04.01-09.44.45:181][  0]LogInit: Computer: LUCIENMK1
+[2020.04.01-09.44.45:181][  0]LogInit: User: Jonas
+[2020.04.01-09.44.45:181][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.01-09.44.45:181][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.01-09.44.45:182][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.04.01-09.44.45:182][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.01-09.44.45:182][  0]LogMemory: Process Physical Memory: 108.22 MB used, 108.22 MB peak
+[2020.04.01-09.44.45:182][  0]LogMemory: Process Virtual Memory: 100.43 MB used, 100.43 MB peak
+[2020.04.01-09.44.45:182][  0]LogMemory: Physical Memory: 8085.72 MB used,  24583.84 MB free, 32669.56 MB total
+[2020.04.01-09.44.45:182][  0]LogMemory: Virtual Memory: 5138.11 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.04.01-09.44.45:185][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.01-09.44.45:202][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.01-09.44.45:202][  0]LogInit: Using OS detected locale (en-SE).
+[2020.04.01-09.44.45:203][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.01-09.44.45:428][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.01-09.44.45:479][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.01-09.44.45:479][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.01-09.44.45:693][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.01-09.44.45:693][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.01-09.44.45:693][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.01-09.44.45:693][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.01-09.44.45:723][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2020.04.01-09.44.45:723][  0]LogD3D11RHI:       4076/0/16334 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2020.04.01-09.44.45:727][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.01-09.44.45:727][  0]LogD3D11RHI:       0/0/16334 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.01-09.44.45:727][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.01-09.44.45:735][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.01-09.44.45:735][  0]LogD3D11RHI:     GPU DeviceId: 0x67b0 (for the marketing name, search the web for "GPU Device Id")
+[2020.04.01-09.44.45:735][  0]LogWindows: EnumDisplayDevices:
+[2020.04.01-09.44.45:736][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2020.04.01-09.44.45:736][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:1)
+[2020.04.01-09.44.45:737][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.01-09.44.45:738][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.01-09.44.45:739][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.01-09.44.45:740][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.01-09.44.45:741][  0]LogWindows:    6. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.01-09.44.45:741][  0]LogWindows:    7. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2020.04.01-09.44.45:742][  0]LogWindows: DebugString: FoundDriverCount:8 
+[2020.04.01-09.44.45:742][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2020.04.01-09.44.45:742][  0]LogD3D11RHI:   Driver Version: Adrenalin 19.20 (internal:26.20.12028.2, unified:26.20.12028.2)
+[2020.04.01-09.44.45:742][  0]LogD3D11RHI:      Driver Date: 8-16-2019
+[2020.04.01-09.44.45:742][  0]LogRHI: Texture pool is 2853 MB (70% of 4076 MB)
+[2020.04.01-09.44.45:790][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.04.01-09.44.45:790][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.01-09.44.45:804][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2020.04.01-09.44.46:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.01-09.44.46:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.01-09.44.46:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.01-09.44.46:234][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.01-09.44.46:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.01-09.44.46:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.01-09.44.46:260][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.01-09.44.46:270][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.01-09.44.46:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.01-09.44.46:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.01-09.44.46:299][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.01-09.44.46:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.01-09.44.46:318][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.01-09.44.46:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.01-09.44.46:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.01-09.44.46:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.01-09.44.46:372][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.01-09.44.46:382][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.01-09.44.46:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.01-09.44.46:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.01-09.44.46:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.01-09.44.46:412][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.01-09.44.46:416][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.01-09.44.46:441][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Intermediate/Shaders/WorkingDirectory/8820/).
+[2020.04.01-09.44.46:441][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Jonas/AppData/Local/Temp/UnrealShaderWorkingDir/104B210D4C49818C462F908938B7A7CD/'.
+[2020.04.01-09.44.46:442][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.01-09.44.46:442][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.01-09.44.46:442][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.01-09.44.47:514][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.01-09.44.47:587][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/Jonas/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.01-09.44.47:587][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Jonas/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.01-09.44.47:587][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.01-09.44.47:587][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.01-09.44.47:587][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.01-09.44.47:587][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.01-09.44.47:599][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.01-09.44.47:599][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.01-09.44.47:599][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.01-09.44.47:600][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Jonas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.01-09.44.47:600][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.01-09.44.47:600][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.01-09.44.47:640][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.01-09.44.47:643][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.01-09.44.47:644][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.01-09.44.47:703][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2020.04.01-09.44.48:149][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.01-09.44.48:359][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.01-09.44.48:359][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.01-09.44.48:359][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.01-09.44.48:359][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.01-09.44.48:359][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.01-09.44.48:384][  0]LogNetVersion: Sundays 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 832971125)
+[2020.04.01-09.44.49:659][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.047811 seconds
+[2020.04.01-09.44.49:669][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.01-09.44.49:669][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.01-09.44.49:669][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.01-09.44.50:139][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.01-09.44.50:142][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.01-09.44.50:205][  0]SourceControl: Source control is disabled
+[2020.04.01-09.44.50:205][  0]SourceControl: Source control is disabled
+[2020.04.01-09.44.50:206][  0]SourceControl: Source control is disabled
+[2020.04.01-09.44.50:207][  0]SourceControl: Source control is disabled
+[2020.04.01-09.44.50:208][  0]SourceControl: Source control is disabled
+[2020.04.01-09.44.50:306][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.01-09.44.50:320][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.01-09.44.50:320][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.01-09.44.50:423][  0]LogOcInput: OculusInput pre-init called
+[2020.04.01-09.44.50:432][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.04.01-09.44.50:432][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.04.01-09.44.50:515][  0]LogEngine: Initializing Engine...
+[2020.04.01-09.44.50:516][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.01-09.44.50:518][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.01-09.44.50:936][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.01-09.44.50:943][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.01-09.44.50:988][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.01-09.44.50:988][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.01-09.44.50:988][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.01-09.44.50:988][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.01-09.44.50:988][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.01-09.44.50:988][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.01-09.44.50:988][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.01-09.44.50:988][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.01-09.44.50:989][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.01-09.44.50:989][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.01-09.44.51:008][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.01-09.44.51:008][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.04.01-09.44.51:008][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.01-09.44.51:008][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.01-09.44.51:008][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.01-09.44.51:008][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.01-09.44.51:008][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.01-09.44.51:008][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.01-09.44.51:008][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.01-09.44.51:038][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.04.01-09.44.51:045][  0]LogInit: FAudioDevice initialized.
+[2020.04.01-09.44.51:046][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.01-09.44.51:156][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Jonas/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.01-09.44.51:165][  0]LogInit: Texture streaming: Enabled
+[2020.04.01-09.44.51:177][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.01-09.44.51:178][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.01-09.44.51:179][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.01-09.44.51:240][  0]LogInit: Transaction tracking system initialized
+[2020.04.01-09.44.51:252][  0]BlueprintLog: New page: Editor Load
+[2020.04.01-09.44.51:287][  0]LocalizationService: Localization service is disabled
+[2020.04.01-09.44.51:611][  0]LogFileCache: Scanning file cache for directory 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/' took 0.00s
+[2020.04.01-09.44.51:611][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.01-09.44.51:611][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.01-09.44.52:389][  0]SourceControl: Source control is disabled
+[2020.04.01-09.44.52:389][  0]Cmd: MAP LOAD FILE="R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/PuzzleBP/Maps/PuzzleExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.01-09.44.52:389][  0]LogEditorServer: Warning: Can't find file 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/PuzzleBP/Maps/PuzzleExampleMap.umap'
+[2020.04.01-09.44.52:389][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.01-09.44.52:390][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,124ms to complete.
+[2020.04.01-09.44.52:390][  0]LogFileHelpers: Loading map 'PuzzleExampleMap' took 0.001
+[2020.04.01-09.44.52:569][  0]LogCollectionManager: Loaded 0 collections in 0.002622 seconds
+[2020.04.01-09.44.52:589][  0]LogFileCache: Scanning file cache for directory 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Collections/' took 0.00s
+[2020.04.01-09.44.52:589][  0]LogFileCache: Scanning file cache for directory 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Developers/Jonas/Collections/' took 0.00s
+[2020.04.01-09.44.52:589][  0]LogFileCache: Scanning file cache for directory 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Collections/' took 0.00s
+[2020.04.01-09.44.52:589][  0]LogContentBrowser: Native class hierarchy populated in 0.0138 seconds. Added 3015 classes and 717 folders.
+[2020.04.01-09.44.52:592][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.01-09.44.52:677][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.01-09.44.52:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-09.44.52:705][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-09.44.52:715][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-09.44.52:724][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-09.44.52:731][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.04.01-09.44.52:747][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.01-09.44.52:784][  0]LogSlate: Took 0.000264 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.01-09.44.52:787][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.01-09.44.52:789][  0]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.01-09.44.52:936][  0]LogRenderer: Reallocating scene render targets to support 1100x924 Format 10 NumSamples 1 (Frame:1).
+[2020.04.01-09.44.53:086][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.01-09.44.53:086][  0]LogLoad: (Engine Initialization) Total time: 9.53 seconds
+[2020.04.01-09.44.53:086][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.01-09.44.53:142][  0]LogAssetRegistry: Asset discovery search completed in 5.4395 seconds
+[2020.04.01-09.44.53:146][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2020.04.01-09.44.53:148][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.01-09.44.53:185][  0]LogSlate: Took 0.000285 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.01-09.44.54:128][104]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.01-09.45.26:460][888]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.01-09.45.26:460][888]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2020.04.01-09.45.26:460][888]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.01-09.45.26:460][888]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2020.04.01-09.45.26:460][888]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.01-09.45.26:460][888]LogWindows: Warning: URL: C:\Users\Jonas\AppData\Local/Programs/Git/cmd/git.exe version
+[2020.04.01-09.45.26:461][888]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.01-09.45.26:461][888]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2020.04.01-09.45.26:461][888]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.01-09.45.26:461][888]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2020.04.01-09.45.26:461][888]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.01-09.45.26:461][888]LogWindows: Warning: URL: C:\Users\Jonas\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2020.04.01-09.45.26:461][888]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2020.04.01-09.45.26:461][888]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2020.04.01-09.45.32:504][591]LogWindows: Warning: CreateProc failed: Access is denied. (0x00000005)
+[2020.04.01-09.45.32:504][591]LogWindows: Warning: URL: P:/Epic Games/UE_4.24/Engine/Binaries/Win64/ version
+[2020.04.01-09.54.38:789][594]LogSlate: Window 'Source Control Login' being destroyed
+[2020.04.01-09.55.00:039][ 28]LogAIModule: Creating AISystem for world Map_Table
+[2020.04.01-09.55.00:061][ 28]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Blueprints/Maps/Map_Table.Map_Table
+[2020.04.01-09.55.00:208][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.04.01-09.55.00:210][ 28]Cmd: MAP LOAD FILE="R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Blueprints/Maps/Map_Table.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.01-09.55.00:212][ 28]LightingResults: New page: Lighting Build
+[2020.04.01-09.55.00:213][ 28]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
+[2020.04.01-09.55.00:214][ 28]LoadErrors: New page: Loading map: Map_Table.umap
+[2020.04.01-09.55.00:214][ 28]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-09.55.00:214][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-09.55.00:215][ 28]MapCheck: New page: Map Check
+[2020.04.01-09.55.00:215][ 28]LightingResults: New page: Lighting Build
+[2020.04.01-09.55.00:353][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.04.01-09.55.00:363][ 28]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.01-09.55.00:518][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.04.01-09.55.00:560][ 28]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.01-09.55.00:560][ 28]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,086ms to complete.
+[2020.04.01-09.55.00:560][ 28]LogFileHelpers: Loading map 'Map_Table' took 0.351
+[2020.04.01-09.55.29:132][163]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.01-09.55.55:211][210]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_HideInClauset.BP_HideInClauset
+[2020.04.01-09.55.55:467][210]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.04.01-09.55.56:720][210]LogRenderer: Reallocating scene render targets to support 1144x924 Format 10 NumSamples 1 (Frame:1).
+[2020.04.01-09.55.58:105][326]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.01-09.56.11:275][370]LogSlate: Took 0.000303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.01-09.56.14:115][547]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_CoffeeCard.BP_CoffeeCard
+[2020.04.01-09.56.23:637][122]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Card.BP_Card
+[2020.04.01-09.56.44:511][815]LogSlate: Window 'BP_HideInClauset' being destroyed
+[2020.04.01-10.00.25:326][290]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.01-10.06.28:378][199]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.04.01-10.06.28:382][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Map_Table' took 0.145
+[2020.04.01-10.06.28:383][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HideInClauset] ([1] browsable assets)...
+[2020.04.01-10.06.28:383][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HideInClauset]
+[2020.04.01-10.06.28:404][199]LogSavePackage: Moving 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/BP_HideInClauset_Auto113DB198643C679DA07BD79B64E9AA63A.tmp' to 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Autosaves/Game/Blueprints/BP_HideInClauset_Auto1.uasset'
+[2020.04.01-10.06.28:404][199]LogFileHelpers: Auto-saving content packages took 0.022
+[2020.04.01-10.12.01:247][618]LogBlueprint: Error: [Compiler BP_HideInWardrobe] This blueprint (self) is not a BP_TaskManager_C, therefore ' Target ' must have a connection.
+[2020.04.01-10.12.01:248][618]LogBlueprint: Error: [Compiler BP_HideInWardrobe] Variable node  Set CurrentTaskValue  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2020.04.01-10.12.01:654][618]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.04.01-10.12.01:670][618]LogMetaData: Removing '/Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/BP_HideInClauset.PackageMetaData'
+[2020.04.01-10.12.01:670][618]LogMetaData: Removing '/Game/Blueprints/BP_HideInWardrobe.SKEL_BP_HideInWardrobe_C' ref from Metadata '/Game/Blueprints/BP_HideInClauset.PackageMetaData'
+[2020.04.01-10.12.01:670][618]LogMetaData: Removing '/Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe_C' ref from Metadata '/Game/Blueprints/BP_HideInClauset.PackageMetaData'
+[2020.04.01-10.12.01:670][618]LogMetaData: Removing '/Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/BP_HideInClauset.PackageMetaData'
+[2020.04.01-10.12.01:670][618]LogMetaData: Removing '/Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/BP_HideInClauset.PackageMetaData'
+[2020.04.01-10.12.01:670][618]LogMetaData: Removing '/Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Blueprints/BP_HideInClauset.PackageMetaData'
+[2020.04.01-10.12.01:734][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HideInWardrobe" FILE="R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Blueprints/BP_HideInWardrobe.uasset" SILENT=true
+[2020.04.01-10.12.01:756][618]LogSavePackage: Moving 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/BP_HideInWardrobeC6B112A3451C56FE92B1BA9BAE887611.tmp' to 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Blueprints/BP_HideInWardrobe.uasset'
+[2020.04.01-10.12.02:572][618]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2020.04.01-10.12.02:717][618]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.04.01-10.12.02:876][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.04.01-10.12.02:930][618]AssetCheck: New page: Asset Save: BP_HideInWardrobe
+[2020.04.01-10.12.02:930][618]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe
+[2020.04.01-10.13.24:193][310]BlueprintLog: New page: Compile BP_HideInWardrobe
+[2020.04.01-10.13.24:554][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.04.01-10.13.24:699][310]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HideInWardrobe" FILE="R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Blueprints/BP_HideInWardrobe.uasset" SILENT=true
+[2020.04.01-10.13.24:753][310]LogSavePackage: Moving 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/BP_HideInWardrobe5E749FB24DFE7664F4C6AD93BBD8CAE6.tmp' to 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Blueprints/BP_HideInWardrobe.uasset'
+[2020.04.01-10.13.24:768][310]AssetCheck: New page: Asset Save: BP_HideInWardrobe
+[2020.04.01-10.13.24:768][310]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe
+[2020.04.01-10.14.02:140][959]BlueprintLog: New page: Compile BP_HideInWardrobe
+[2020.04.01-10.14.02:511][959]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2020.04.01-10.14.02:639][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HideInWardrobe" FILE="R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Blueprints/BP_HideInWardrobe.uasset" SILENT=true
+[2020.04.01-10.14.02:670][959]LogSavePackage: Moving 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/BP_HideInWardrobeFE95B69B4CF7F6DC20DB92A649BCC36A.tmp' to 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Blueprints/BP_HideInWardrobe.uasset'
+[2020.04.01-10.14.02:686][959]AssetCheck: New page: Asset Save: BP_HideInWardrobe
+[2020.04.01-10.14.02:686][959]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe
+[2020.04.01-10.14.16:894][895]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.14.16:894][895]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-10.14.16:895][895]PIE: New page: SIE session: Map_Table (1 Apr 2020, 14:14:16)
+[2020.04.01-10.14.16:896][895]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.04.01-10.14.16:897][895]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.04.01-10.14.16:897][895]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Map_Table
+[2020.04.01-10.14.16:915][895]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017109s)
+[2020.04.01-10.14.16:916][895]LogAIModule: Creating AISystem for world Map_Table
+[2020.04.01-10.14.16:917][895]LogPlayLevel: PIE: World Init took: (0.001883s)
+[2020.04.01-10.14.16:917][895]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Map_Table.Map_Table to /Game/Blueprints/Maps/UEDPIE_0_Map_Table.Map_Table (0.019296s)
+[2020.04.01-10.14.16:995][895]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.04.01-10.14.16:996][895]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.01-10.14.16:996][895]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.01-10.14.16:996][895]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.01-10.14.16:996][895]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.01-10.14.16:996][895]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.01-10.14.16:996][895]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.01-10.14.16:996][895]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.01-10.14.16:996][895]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.01-10.14.16:997][895]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.01-10.14.16:997][895]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.01-10.14.17:009][895]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.01-10.14.17:009][895]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.04.01-10.14.17:009][895]LogAudioMixer: Display: Is Default: Yes
+[2020.04.01-10.14.17:009][895]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.01-10.14.17:009][895]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.01-10.14.17:010][895]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.01-10.14.17:010][895]LogAudioMixer: Display: Channel Order:
+[2020.04.01-10.14.17:010][895]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.01-10.14.17:010][895]LogAudioMixer: Display: 1: FrontRight
+[2020.04.01-10.14.17:033][895]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.04.01-10.14.17:035][895]LogInit: FAudioDevice initialized.
+[2020.04.01-10.14.17:050][895]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.04.01-10.14.17:052][895]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Map_Table.Map_Table up for play (max tick rate 0) at 2020.04.01-12.14.17
+[2020.04.01-10.14.17:052][895]LogWorld: Bringing up level for play took: 0.001023
+[2020.04.01-10.14.17:052][895]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2020.04.01-10.14.17:054][895]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.01-10.14.17:060][895]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.04.01-10.14.17:069][895]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Map_Table 0,762
+[2020.04.01-10.14.17:071][895]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.14.17:538][896]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/BP_CardManager.BP_CardManager_C:ExecuteUbergraph_BP_CardManager'!
+[2020.04.01-10.14.17:555][897]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/BP_TaskManager.BP_TaskManager_C:ExecuteUbergraph_BP_TaskManager'!
+[2020.04.01-10.14.17:555][897]LogScript: Warning: Accessed None trying to read property GUI
+	BP_CardManager_C /Game/Blueprints/Maps/UEDPIE_0_Map_Table.Map_Table:PersistentLevel.BP_CardManager_2
+	Function /Game/Blueprints/BP_CardManager.BP_CardManager_C:ExecuteUbergraph_BP_CardManager:0236
+[2020.04.01-10.14.17:555][897]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GUI". Blueprint:  BP_CardManager Function:  Execute Ubergraph BP Card Manager Graph:  EventGraph Node:  Event Update GUI
+[2020.04.01-10.14.29:521][629]LogScript: Warning: Accessed None trying to read property TaskMannagerRef
+	BP_HideInWardrobe_C /Engine/Transient.World_3:PersistentLevel.BP_HideInWardrobe_C_1
+	Function /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe_C:ExecuteUbergraph_BP_HideInWardrobe:003A
+[2020.04.01-10.14.29:521][629]LogScript: Warning: Accessed None trying to read property TaskMannagerRef
+	BP_HideInWardrobe_C /Engine/Transient.World_3:PersistentLevel.BP_HideInWardrobe_C_1
+	Function /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe_C:ExecuteUbergraph_BP_HideInWardrobe:0064
+[2020.04.01-10.14.29:521][629]LogScript: Warning: Attempted to assign to None
+	BP_HideInWardrobe_C /Engine/Transient.World_3:PersistentLevel.BP_HideInWardrobe_C_1
+	Function /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe_C:ExecuteUbergraph_BP_HideInWardrobe:0079
+[2020.04.01-10.14.33:465][864]LogScript: Warning: Accessed None trying to read property TaskMannagerRef
+	BP_HideInWardrobe_C /Engine/Transient.World_3:PersistentLevel.BP_HideInWardrobe_C_3
+	Function /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe_C:ExecuteUbergraph_BP_HideInWardrobe:003A
+[2020.04.01-10.14.33:465][864]LogScript: Warning: Accessed None trying to read property TaskMannagerRef
+	BP_HideInWardrobe_C /Engine/Transient.World_3:PersistentLevel.BP_HideInWardrobe_C_3
+	Function /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe_C:ExecuteUbergraph_BP_HideInWardrobe:0064
+[2020.04.01-10.14.33:465][864]LogScript: Warning: Attempted to assign to None
+	BP_HideInWardrobe_C /Engine/Transient.World_3:PersistentLevel.BP_HideInWardrobe_C_3
+	Function /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe_C:ExecuteUbergraph_BP_HideInWardrobe:0079
+[2020.04.01-10.14.35:880][ 15]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.14.35:880][ 15]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.14.35:880][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.14.35:881][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-10.14.35:881][ 15]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Map_Table
+[2020.04.01-10.14.35:882][ 15]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.14.35:883][ 15]LogWorld: UWorld::CleanupWorld for Map_Table, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-10.14.35:883][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-10.14.35:894][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-10.14.35:894][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.14.35:901][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-10.14.36:036][ 15]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.14.36:040][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-10.14.36:081][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2020.04.01-10.14.36:209][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.04.01-10.14.38:034][130]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-10.14.38:046][130]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-10.15.29:179][524]BlueprintLog: New page: Compile BP_HideInWardrobe
+[2020.04.01-10.15.29:631][524]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2020.04.01-10.15.29:766][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HideInWardrobe" FILE="R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Blueprints/BP_HideInWardrobe.uasset" SILENT=true
+[2020.04.01-10.15.29:798][524]LogSavePackage: Moving 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/BP_HideInWardrobe5BB7266F44DC23B450B014AB47269273.tmp' to 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Blueprints/BP_HideInWardrobe.uasset'
+[2020.04.01-10.15.29:813][524]AssetCheck: New page: Asset Save: BP_HideInWardrobe
+[2020.04.01-10.15.29:813][524]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe
+[2020.04.01-10.15.31:353][627]LogScript: Warning: Accessed None trying to read property TaskMannagerRef
+	BP_HideInWardrobe_C /Engine/Transient.World_3:PersistentLevel.BP_HideInWardrobe_C_5
+	Function /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe_C:ExecuteUbergraph_BP_HideInWardrobe:003A
+[2020.04.01-10.15.31:353][627]LogScript: Warning: Accessed None trying to read property TaskMannagerRef
+	BP_HideInWardrobe_C /Engine/Transient.World_3:PersistentLevel.BP_HideInWardrobe_C_5
+	Function /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe_C:ExecuteUbergraph_BP_HideInWardrobe:0064
+[2020.04.01-10.15.31:353][627]LogScript: Warning: Attempted to assign to None
+	BP_HideInWardrobe_C /Engine/Transient.World_3:PersistentLevel.BP_HideInWardrobe_C_5
+	Function /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe_C:ExecuteUbergraph_BP_HideInWardrobe:0079
+[2020.04.01-10.15.36:860][ 23]LogTemp: Repeating last play command: Simulate
+[2020.04.01-10.15.36:900][ 23]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.15.36:900][ 23]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-10.15.36:901][ 23]PIE: New page: SIE session: Map_Table (1 Apr 2020, 14:15:36)
+[2020.04.01-10.15.36:901][ 23]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Map_Table
+[2020.04.01-10.15.36:913][ 23]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011966s)
+[2020.04.01-10.15.36:915][ 23]LogAIModule: Creating AISystem for world Map_Table
+[2020.04.01-10.15.36:915][ 23]LogPlayLevel: PIE: World Init took: (0.002190s)
+[2020.04.01-10.15.36:915][ 23]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Map_Table.Map_Table to /Game/Blueprints/Maps/UEDPIE_0_Map_Table.Map_Table (0.014313s)
+[2020.04.01-10.15.37:025][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2020.04.01-10.15.37:026][ 23]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.01-10.15.37:027][ 23]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.01-10.15.37:027][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.01-10.15.37:027][ 23]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.01-10.15.37:027][ 23]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.01-10.15.37:027][ 23]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.01-10.15.37:027][ 23]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.01-10.15.37:027][ 23]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.01-10.15.37:027][ 23]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.01-10.15.37:027][ 23]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.01-10.15.37:039][ 23]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.01-10.15.37:039][ 23]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.04.01-10.15.37:039][ 23]LogAudioMixer: Display: Is Default: Yes
+[2020.04.01-10.15.37:039][ 23]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.01-10.15.37:039][ 23]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.01-10.15.37:039][ 23]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.01-10.15.37:039][ 23]LogAudioMixer: Display: Channel Order:
+[2020.04.01-10.15.37:039][ 23]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.01-10.15.37:039][ 23]LogAudioMixer: Display: 1: FrontRight
+[2020.04.01-10.15.37:060][ 23]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.04.01-10.15.37:062][ 23]LogInit: FAudioDevice initialized.
+[2020.04.01-10.15.37:073][ 23]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.04.01-10.15.37:075][ 23]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Map_Table.Map_Table up for play (max tick rate 0) at 2020.04.01-12.15.37
+[2020.04.01-10.15.37:075][ 23]LogWorld: Bringing up level for play took: 0.000901
+[2020.04.01-10.15.37:075][ 23]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2020.04.01-10.15.37:077][ 23]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.01-10.15.37:078][ 23]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Map_Table 0,77
+[2020.04.01-10.15.37:079][ 23]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.15.37:100][ 24]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/BP_CardManager.BP_CardManager_C:ExecuteUbergraph_BP_CardManager'!
+[2020.04.01-10.15.37:307][ 36]LogScript: Warning: Accessed None trying to read property GUI
+	BP_CardManager_C /Game/Blueprints/Maps/UEDPIE_0_Map_Table.Map_Table:PersistentLevel.BP_CardManager_2
+	Function /Game/Blueprints/BP_CardManager.BP_CardManager_C:ExecuteUbergraph_BP_CardManager:0236
+[2020.04.01-10.15.37:307][ 36]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GUI". Blueprint:  BP_CardManager Function:  Execute Ubergraph BP Card Manager Graph:  EventGraph Node:  Event Update GUI
+[2020.04.01-10.15.37:356][ 39]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/BP_TaskManager.BP_TaskManager_C:ExecuteUbergraph_BP_TaskManager'!
+[2020.04.01-10.16.11:204][ 69]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.16.11:204][ 69]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.16.11:204][ 69]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.16.11:204][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-10.16.11:205][ 69]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Map_Table
+[2020.04.01-10.16.11:206][ 69]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.16.11:206][ 69]LogWorld: UWorld::CleanupWorld for Map_Table, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-10.16.11:206][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-10.16.11:215][ 69]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-10.16.11:216][ 69]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.16.11:223][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-10.16.11:340][ 69]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.16.11:345][ 69]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-10.16.11:352][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.04.01-10.16.11:476][ 70]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.01-10.16.13:535][187]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-10.16.13:548][187]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-10.16.15:629][323]LogTemp: Repeating last play command: Simulate
+[2020.04.01-10.16.15:670][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.16.15:670][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.01-10.16.15:671][323]PIE: New page: SIE session: Map_Table (1 Apr 2020, 14:16:15)
+[2020.04.01-10.16.15:671][323]LogPlayLevel: Creating play world package: /Game/Blueprints/Maps/UEDPIE_0_Map_Table
+[2020.04.01-10.16.15:684][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013106s)
+[2020.04.01-10.16.15:685][323]LogAIModule: Creating AISystem for world Map_Table
+[2020.04.01-10.16.15:685][323]LogPlayLevel: PIE: World Init took: (0.001518s)
+[2020.04.01-10.16.15:686][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Blueprints/Maps/Map_Table.Map_Table to /Game/Blueprints/Maps/UEDPIE_0_Map_Table.Map_Table (0.014816s)
+[2020.04.01-10.16.15:794][323]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.04.01-10.16.15:795][323]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.01-10.16.15:795][323]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.01-10.16.15:795][323]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.01-10.16.15:795][323]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.01-10.16.15:795][323]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.01-10.16.15:795][323]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.01-10.16.15:795][323]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.01-10.16.15:795][323]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.01-10.16.15:796][323]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.01-10.16.15:796][323]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.01-10.16.15:808][323]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.01-10.16.15:808][323]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.04.01-10.16.15:808][323]LogAudioMixer: Display: Is Default: Yes
+[2020.04.01-10.16.15:808][323]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.01-10.16.15:808][323]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.01-10.16.15:808][323]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.01-10.16.15:808][323]LogAudioMixer: Display: Channel Order:
+[2020.04.01-10.16.15:808][323]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.01-10.16.15:808][323]LogAudioMixer: Display: 1: FrontRight
+[2020.04.01-10.16.15:828][323]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.04.01-10.16.15:831][323]LogInit: FAudioDevice initialized.
+[2020.04.01-10.16.15:844][323]LogLoad: Game class is 'PuzzleGameMode_C'
+[2020.04.01-10.16.15:845][323]LogWorld: Bringing World /Game/Blueprints/Maps/UEDPIE_0_Map_Table.Map_Table up for play (max tick rate 0) at 2020.04.01-12.16.15
+[2020.04.01-10.16.15:845][323]LogWorld: Bringing up level for play took: 0.000915
+[2020.04.01-10.16.15:845][323]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.04.01-10.16.15:847][323]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.01-10.16.15:848][323]PIE: Play in editor start time for /Game/Blueprints/Maps/UEDPIE_0_Map_Table -0,459
+[2020.04.01-10.16.15:849][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.16.15:872][324]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/BP_CardManager.BP_CardManager_C:ExecuteUbergraph_BP_CardManager'!
+[2020.04.01-10.16.16:075][335]LogScript: Warning: Accessed None trying to read property GUI
+	BP_CardManager_C /Game/Blueprints/Maps/UEDPIE_0_Map_Table.Map_Table:PersistentLevel.BP_CardManager_2
+	Function /Game/Blueprints/BP_CardManager.BP_CardManager_C:ExecuteUbergraph_BP_CardManager:0236
+[2020.04.01-10.16.16:075][335]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property GUI". Blueprint:  BP_CardManager Function:  Execute Ubergraph BP Card Manager Graph:  EventGraph Node:  Event Update GUI
+[2020.04.01-10.16.16:126][338]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Blueprints/BP_TaskManager.BP_TaskManager_C:ExecuteUbergraph_BP_TaskManager'!
+[2020.04.01-10.16.29:284][ 90]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.16.29:284][ 90]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.16.29:284][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.16.29:285][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-10.16.29:285][ 90]LogWorld: BeginTearingDown for /Game/Blueprints/Maps/UEDPIE_0_Map_Table
+[2020.04.01-10.16.29:285][ 90]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.16.29:285][ 90]LogWorld: UWorld::CleanupWorld for Map_Table, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-10.16.29:286][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-10.16.29:295][ 90]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.01-10.16.29:295][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel' has LevelScriptBlueprint '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table' with GeneratedClass '/Game/Blueprints/Maps/Map_Table.Map_Table_C' with ClassGeneratedBy '/Game/Blueprints/Maps/Map_Table.Map_Table:PersistentLevel.Map_Table'
+[2020.04.01-10.16.29:303][ 90]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-10.16.29:429][ 90]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.04.01-10.16.29:433][ 90]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.01-10.16.29:442][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   6.42ms
+[2020.04.01-10.16.29:546][ 91]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.01-10.16.30:842][158]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-10.16.30:854][158]LogSlate: Window 'Message Log' being destroyed
+[2020.04.01-10.29.47:627][928]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.04.01-10.29.47:632][928]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Blueprints/Maps/Map_Table' took 0.155
+[2020.04.01-10.29.47:632][928]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_HideInWardrobe] ([1] browsable assets)...
+[2020.04.01-10.29.47:632][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_HideInWardrobe]
+[2020.04.01-10.29.47:690][928]LogSavePackage: Moving 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/BP_HideInWardrobe_Auto25A3BABFB4D0C10D46421419D1A9398E1.tmp' to 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/Autosaves/Game/Blueprints/BP_HideInWardrobe_Auto2.uasset'
+[2020.04.01-10.29.47:690][928]LogFileHelpers: Auto-saving content packages took 0.058
+[2020.04.01-10.30.36:140][174]BlueprintLog: New page: Compile BP_HideInWardrobe
+[2020.04.01-10.30.36:612][174]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2020.04.01-10.30.36:739][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_HideInWardrobe" FILE="R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Blueprints/BP_HideInWardrobe.uasset" SILENT=true
+[2020.04.01-10.30.36:772][174]LogSavePackage: Moving 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Saved/BP_HideInWardrobeE80B10714BABC01040B1A6A5820E95D6.tmp' to 'R:/FutureGames/Git/Mundane Cardgame/BoardGameyMundane/Sundays/Content/Blueprints/BP_HideInWardrobe.uasset'
+[2020.04.01-10.30.36:787][174]AssetCheck: New page: Asset Save: BP_HideInWardrobe
+[2020.04.01-10.30.36:788][174]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_HideInWardrobe.BP_HideInWardrobe
+[2020.04.01-10.31.05:526][648]LogSlate: Window 'Submit Files' being destroyed
+[2020.04.01-10.31.06:058][648]LogSourceControl: commit successful: [Jonas 11106f1] Created Hide in Wardrobe card
+[2020.04.01-10.31.06:142][648]SourceControl: [Jonas 11106f1] Created Hide in Wardrobe card
+[2020.04.01-10.31.06:142][648]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2020.04.01-10.31.06:142][648]SourceControl:  create mode 100644 Sundays/Content/Blueprints/BP_HideInWardrobe.uasset
+[2020.04.01-10.31.06:149][648]SourceControl: Commited [Jonas 11106f1] Created Hide in Wardrobe card.
+[2020.04.01-10.34.25:321][823]LogSlate: Window 'BP_CoffeeCard' being destroyed
+[2020.04.01-10.34.25:328][823]LogSlate: Window 'BP_CoffeeCard' being destroyed
+[2020.04.01-10.34.25:350][823]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-10.34.25:350][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.01-10.34.25:437][823]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.04.01-10.34.25:437][823]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.04.01-10.34.25:437][823]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
